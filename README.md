@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nir Kriemer</h1>
+<h1 align="center">Nir Kriemer</h1>
 <h3 align="center">Low-Level & Cybersecurity Enthusiast</h3>
 
 - 🔭 I’m currently working on [TrazelOs](https://github.com/TrazelDev/TrazelOs)
